@@ -1,0 +1,7 @@
+input/*
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.csv
+__pycache__/
